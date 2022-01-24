@@ -1,15 +1,20 @@
 body {
-  text-align: center;
+  display: block;
+  margin: 8px;
   background: #f6d9ae;
+  text-align: center;
 }
 
 .croissant-emoji {
   font-size: 100px;
 }
 
+.about-croissant {
+}
+
 .photo-croissant {
   display: block;
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 10px;
   margin: 30px auto;
 }
