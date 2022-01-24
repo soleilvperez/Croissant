@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background: #f6d9ae;
+}
+
+.croissant-emoji {
+  font-size: 100px;
+}
+
+.photo-croissant {
+  display: block;
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+.important-link {
+  margin: 0 10px;
+}
